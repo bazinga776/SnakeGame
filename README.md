@@ -4,3 +4,6 @@ Simple snake game using PyGame.
 * Plays background music when the game window is open
 * Option for play again
 * Apple Image for food
+
+## How the game window looks - demo
+![Output sample](https://github.com/bazinga776/SnakeGame/blob/master/demo.mp4)
