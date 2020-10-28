@@ -8,5 +8,8 @@ Simple snake game using PyGame.
 ## Execution command
 python screen.py
 
-## How the game window looks - demo
+## How the game window looks:
+![Output sample](https://github.com/bazinga776/SnakeGame/blob/master/demo.gif)
+
+## For demo video with audio click below:
 ![Output sample](https://github.com/bazinga776/SnakeGame/blob/master/demo.mp4)
